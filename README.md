@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Ajay</h1>
 <h3 align="center">A Cyber-Security Enthusiast and a developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushajay14&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cypher042&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushajay14" alt="ayushajay14" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayushajay14" target="blank"><img src="https://img.shields.io/twitter/follow/ayushajay14?logo=twitter&style=for-the-badge" alt="ayushajay14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="ayushajay14" /></a> </p>
 
 - 🔭 I’m currently working on [webpack-plugins](https://github.com/AyushAjay14/Task-Manager)
 
 - 🌱 I’m currently learning **JS**
-
 
 - 📫 How to reach me **cypher200501@gmail.com**
 
