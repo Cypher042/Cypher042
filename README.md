@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Cypher042</h1>
-<h3 align="center">A Cyber-Security Enthusiast and a developer.</h3>
+<h3 align="center">A Cyber-Security Enthusiast and a Developer.</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cypher042&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="ayushajay14" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [Task Manager, a discord bot](https://github.com/Cypher042/Task-Manager)
+- 🔭 I’m currently working on [Task Manager, a Discord Bot](https://github.com/Cypher042/Task-Manager)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JavaScript**
 
+- 💻 Exploring and loving the Domain of Cybersecurity.
+  
 - 📫 How to reach me **cypher200501@gmail.com**
 
-- ⚡ Fun fact **I play games like minecraft and valorant with my friends and also love to play badminton.**
+- ⚡ Fun fact:  **I play games like minecraft and valorant with my friends and also love to play badminton.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
