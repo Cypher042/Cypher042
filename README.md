@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [Task Manager, a Discord Bot](https://github.com/Cypher042/Task-Manager)
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Javascript**
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
-- 📫 How to reach me **cypher200501@gmail.com**
+- ⚡Playing CTFs with [CyberLabs](https://github.com/Cyber-Labs)
 
-- ⚡ Fun fact:  **I play games like minecraft and valorant with my friends and also love to play badminton.**
+- 📫 How to reach me **cypher200501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
