@@ -12,7 +12,7 @@
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
-- ⚡Playing CTFs with [CyberLabs](https://github.com/Cyber-Labs)
+- ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
 - 📫 How to reach me **cypher200501@gmail.com**
 
