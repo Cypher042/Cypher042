@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Task Manager, a Discord Bot](https://github.com/Cypher042/Task-Manager)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Assembly**
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
