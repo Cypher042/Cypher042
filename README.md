@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="ayushajay14" /></a> </p>
 -->
-
-- 🔭 I’m currently working on [Task Manager, a Discord Bot](https://github.com/Cypher042/Task-Manager)
-
-- 🌱 I’m currently learning **Javascript**
-
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
@@ -18,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/546590127355330560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayushajay14" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/546590127355330560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cypher" height="30" width="40" /></a>
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-ajay-6b6773207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-ajay-6b6773207/" height="30" width="40" /></a> -->
 <!-- <a href="https://fb.com/https://www.facebook.com/ayush.ajay.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayush.ajay.142" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/____a.y.u.s.h___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____a.y.u.s.h___" height="30" width="40" /></a> -->
