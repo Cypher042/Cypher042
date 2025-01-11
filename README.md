@@ -8,11 +8,12 @@
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
+- 🔭 I’m currently working on **Machine Learning**
+  
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
 - 📫 How to reach me **cypher200501@gmail.com**
 
-- 🔭 I’m currently working on **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
