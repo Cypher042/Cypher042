@@ -3,7 +3,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cypher042&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="ayushajay14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="Cypher042" /></a> </p>
 -->
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
@@ -11,6 +11,8 @@
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
 - 📫 How to reach me **cypher200501@gmail.com**
+
+- 🔭 I’m currently working on **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
