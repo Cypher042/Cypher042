@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cypher042" alt="Cypher042" /></a> </p>
 -->
 
-- 💻 Exploring and loving the Domain of Cybersecurity.
+- 💻 Exploring and loving the Domain of DevOps.
   
 - 🔭 I’m currently learning **GoLang**
   
