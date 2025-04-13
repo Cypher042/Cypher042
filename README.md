@@ -8,7 +8,7 @@
 
 - 💻 Exploring and loving the Domain of Cybersecurity.
   
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently learning **GoLang**
   
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
