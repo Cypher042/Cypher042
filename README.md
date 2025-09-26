@@ -8,7 +8,7 @@
 
 - 💻 Exploring Cloud Computing.
   
-- 🔭 I’m currently learning **GoLang**
+- 🔭 I’m currently learning **Java**
   
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
