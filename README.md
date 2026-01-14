@@ -8,8 +8,6 @@
 
 - 💻 Exploring Cloud Computing.
   
-- 🔭 I’m currently learning **Go Internals**
-  
 - ⚡Playing CTFs with  [CyberLabs](https://cyberlabs.club/)
 
 - 📫 How to reach me **cypher200501@gmail.com**
