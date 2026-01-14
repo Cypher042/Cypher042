@@ -12,6 +12,7 @@
 
 - 📫 How to reach me **cypher200501@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cypher042&label=Profile%20views&color=0e75b6&style=flat" alt="Cypher042" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
